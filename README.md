@@ -1,4 +1,9 @@
 # js-movie-app
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" />
+</p>
 
 A lightweight movie browsing app built entirely with vanilla JavaScript, HTML, and CSS. No frameworks, libraries, or build tools. All rendering and interaction logic is handled with simple DOM manipulation and a small event-driven structure.
 
